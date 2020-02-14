@@ -9,6 +9,11 @@ https://www.kaggle.com/crowdflower/twitter-airline-sentiment?fbclid=IwAR2JXplmdR
 Flight recorder data <br>
 https://c3.nasa.gov/dashlink/projects/85/<br>
 
+Cockpit Voice Recorder Data <br>
+https://www.tailstrike.com/database.htm
+https://www.youtube.com/watch?v=cB0HmVR0L14&list=PLqwTQqRpBo9nAEXiNwoBjORFUP8mTyEE5&index=65
+http://www.planecrashinfo.com/cvr100410.htm
+
 Misscommunication <br>
 
 http://ejournal.ukm.my/3l/article/view/27583/8818 <br>
