@@ -9,6 +9,10 @@ https://www.kaggle.com/crowdflower/twitter-airline-sentiment?fbclid=IwAR2JXplmdR
 Flight recorder data
 https://c3.nasa.gov/dashlink/projects/85/<br>
 
+Misscommunication <br>
+
+http://ejournal.ukm.my/3l/article/view/27583/8818 <br>
+
 
 <b> Research Paper </b> <br>
 https://www.researchgate.net/publication/338820004_The_Determinants_of_Airline_Operational_Performance_An_Empirical_Study_on_Major_World_Airlines
