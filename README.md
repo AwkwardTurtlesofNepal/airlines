@@ -6,6 +6,9 @@ https://github.com/karthikchiru12/Airplane-Accident-Severity-Hacker-Earth-Challe
 
 https://www.kaggle.com/crowdflower/twitter-airline-sentiment?fbclid=IwAR2JXplmdRGL0cefo8H9v07FApBgMwUHkR-TFOERqgIxRxVNEFBNqfTizb8 <br>
 
+Flight recorder data
+https://c3.nasa.gov/dashlink/projects/85/<br>
+
 
 <b> Research Paper </b> <br>
 https://www.researchgate.net/publication/338820004_The_Determinants_of_Airline_Operational_Performance_An_Empirical_Study_on_Major_World_Airlines
